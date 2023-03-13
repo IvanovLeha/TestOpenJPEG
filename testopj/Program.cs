@@ -10,7 +10,7 @@ using OpenJPEG;
 namespace testopj
 {
     /// <summary>
-    /// Simple example of interaction with OpenJPEG library
+    /// Simple example of interaction with OpenJPEG library (openjpeg.org)
     /// Converting tiff gray 9...16 bit to jp2 and vice versa
     /// tested with OpenJPEG v2.5.0 x86-32
     /// requires openjp2.dll
